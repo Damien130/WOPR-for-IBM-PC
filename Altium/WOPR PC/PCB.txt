@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\hudai\iCloudDrive\Fall 22\ECE 1895\555 Timer Project\Altium\WOPR PC\PCB.PcbDoc
+Date         : 9/3/2022
+Time         : 8:28:35 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 78.9mmx50.1mm
+    Components on board, 36
+count : 2

@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=CAPRB750W60L1450T500H1850
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=CAPRB750W60L1450T500H1850
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=CK45-E3DD103ZYGNA
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=CK45-E3DD103ZYGNA
+Change component parameters: Designator = "C3" ("C3"); Footprint = "RAD-0.3"; UniqueID = "\QWGUWHIY" ("\QWGUWHIY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CK45E3DD103ZYGNA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-175346-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CK45E3DD103ZYGNA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CK45E3DD103ZYGNA/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CK45E3DD103ZYGNA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "RAD-0.3"; UniqueID = "\BTQCPESR" ("\BTQCPESR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CK45E3DD103ZYGNA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-175346-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CK45E3DD103ZYGNA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CK45E3DD103ZYGNA/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CK45E3DD103ZYGNA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 nF"; VariantName = "[No Variations]"

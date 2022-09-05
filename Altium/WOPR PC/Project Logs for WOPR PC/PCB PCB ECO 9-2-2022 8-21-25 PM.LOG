@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=TRIG1 Pin=C1-1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=FG18X7R1E105KRT00
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=FG18X7R1E105KRT00
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=Res2
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1 New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Res1 New DesignItemId=Res2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CAPRB250W50L400T250H550
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=CAPRB250W50L400T250H550
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=FG18X7R1E105KRT00
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=FG18X7R1E105KRT00
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=Res2
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=Res2
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=Res2
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=COMMERCIAL GRADE, HALOGEN FREE DIPPED RADIAL / BULK
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=COMMERCIAL GRADE, HALOGEN FREE DIPPED RADIAL / BULK
+Change Component Library : Designator=C1 Old Library=Miscellaneous Devices.IntLib New Library=FG18X7R1E105KRT00.IntLib
+Change Component Library : Designator=C2 Old Library=Miscellaneous Devices.IntLib New Library=FG18X7R1E105KRT00.IntLib
+Change component parameters: Designator = "C1" ("C1"); Footprint = "RAD-0.3"; UniqueID = "\SXGYANMR" ("\SXGYANMR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG18X7R1E105KRT00/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-180204-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FG18X7R1E105KRT00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG18X7R1E105KRT00/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG18X7R1E105KRT00/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RAD-0.3"; UniqueID = "\SWVAKXXZ" ("\SWVAKXXZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG18X7R1E105KRT00/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-180204-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FG18X7R1E105KRT00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial TDK Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG18X7R1E105KRT00/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG18X7R1E105KRT00/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.3"; UniqueID = "\MZSCIGAS" ("\MZSCIGAS")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "AXIAL-0.3"; UniqueID = "\KNRDIWWP" ("\KNRDIWWP")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "AXIAL-0.3"; UniqueID = "\FEJRNVAZ" ("\FEJRNVAZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
