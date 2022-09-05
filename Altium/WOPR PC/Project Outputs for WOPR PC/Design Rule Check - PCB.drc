@@ -1,9 +1,15 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\hudai\iCloudDrive\Fall 22\ECE 1895\555 Timer Project\Altium\WOPR PC\PCB.PcbDoc
-Date     : 9/3/2022
-Time     : 8:04:47 PM
+PCB File : C:\Users\hudai\iCloudDrive\Fall 22\ECE 1895\WOPR-for-IBM-PC\Altium\WOPR PC\PCB.PcbDoc
+Date     : 9/5/2022
+Time     : 2:14:31 PM
 
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,50 +21,40 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.254mm) (Max=0.381mm) (Preferred=0.381mm) (InNet('MSW'))
+Processing Rule : Width Constraint (Min=0.089mm) (Max=2.54mm) (Preferred=0.381mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-3(54mm,51mm) on Multi-Layer Actual Hole Size = 3.4mm
-   Violation between Hole Size Constraint: (3.4mm > 2.54mm) Pad Free-4(126mm,93.5mm) on Multi-Layer Actual Hole Size = 3.4mm
-Rule Violations :2
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R1-1(121.69mm,72.2mm) on Multi-Layer And Track (119.658mm,72.2mm)(120.674mm,72.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R1-2(111.53mm,72.2mm) on Multi-Layer And Track (112.546mm,72.2mm)(113.562mm,72.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R2-1(111.53mm,69.7mm) on Multi-Layer And Track (112.546mm,69.7mm)(113.562mm,69.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R2-2(121.69mm,69.7mm) on Multi-Layer And Track (119.658mm,69.7mm)(120.674mm,69.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R3-1(121.48mm,53.7mm) on Multi-Layer And Track (119.448mm,53.7mm)(120.464mm,53.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R3-2(111.32mm,53.7mm) on Multi-Layer And Track (112.336mm,53.7mm)(113.352mm,53.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R4-1(111.32mm,51.11mm) on Multi-Layer And Track (112.336mm,51.11mm)(113.352mm,51.11mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.216mm < 0.254mm) Between Pad R4-2(121.48mm,51.11mm) on Multi-Layer And Track (119.448mm,51.11mm)(120.464mm,51.11mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.216mm]
-Rule Violations :8
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room WOPR PC (Bounding Region = (51.2mm, 48.7mm, 129.4mm, 96.2mm) (InComponentClass('WOPR PC'))
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 10
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
